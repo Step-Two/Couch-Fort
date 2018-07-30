@@ -17,3 +17,4 @@ FILM
 - more forts (different kids; tea party, castle, log cabin)
 - full video putting everything away; time lapse, but show actual time
   required
+- include some reference to how kids are more creative if not told how to use something
